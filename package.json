@@ -1,0 +1,23 @@
+{
+    "name": "fightcode-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "json-server index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tagazok/fightcode-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tagazok/fightcode-api/issues"
+    },
+    "homepage": "https://github.com/tagazok/fightcode-api#readme",
+    "dependencies": {
+        "json-server": "^0.9.4"
+    }
+}
